@@ -1,2 +1,6 @@
-# Podcast-Production-Workflow
-A practical podcast call board workflow that sparked my interest in systems and tooling.
+# Podcast Call Board
+
+A lightweight workflow for managing podcast call-ins, segments, and show flow.
+
+This project documents a real-world process that later influenced my interest
+in systems design and tooling.
